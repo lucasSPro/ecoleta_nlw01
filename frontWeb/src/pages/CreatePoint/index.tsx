@@ -163,7 +163,7 @@ const CreatePoint = () => {
           <legend>
             <h2>Dados</h2>
           </legend>
-          <hr color="#555"/>
+          
           <div className="field">
             <label htmlFor="name">Nome da entidade</label>
             <input 
